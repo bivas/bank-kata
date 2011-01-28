@@ -79,6 +79,8 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<description>Coding Kata for practacing legacy code unit testing with EasyMock</description>
+	<url>http://iambivas.blogspot.com/2011/01/unit-testing-principals-and-coding-kata.html</url>
 	<build>
 		<plugins>
 			<plugin>
